@@ -7,4 +7,6 @@ Technologies used in this project are:
 - SpringBoot to create restAPI from an oracle database
 - React.js to fetch the data from api and display it in a table form.
 
-![](screenshot.png)
+![](react-table-view-screenshot.png)
+
+![](api-testing-screenshot.png)
